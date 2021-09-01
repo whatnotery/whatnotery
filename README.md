@@ -15,11 +15,11 @@
 
 ### Current skills I'm working on:
 
--[❎] HTML
+-[✅] HTML
 
--[❎] CSS
+-[✅] CSS
 
--[❎] Bootstrap
+-[✅] Bootstrap
 
 -[] JavaScript
 
