@@ -1,5 +1,5 @@
 
-# ***Howdy Y'all***  👈🤠👉 
+# ***Howdy Y'all!***  👈🤠👉 
 
 ![cartoon of Jos O'shea and a fall scene with a bike](https://github.com/whatnotery/whatnotery/blob/main/image.png)
 
