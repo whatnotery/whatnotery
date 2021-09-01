@@ -3,15 +3,23 @@
 
 ## My name is Jos and I'm an aspiring web developer in Lexington KY.
 
+### Connect with me over:
 
+- How you got started as a developer!
+
+- What coding bootcamps you think are worthwhile (or if they are at all?)
+
+- What resources you do think are worthwhile if you don't think bootcamps are the move. 
+
+- What the best sort of portfolio projects are to get noticed by employers.
 
 ### Current skills I'm working on:
 
--[❎] ~~HTML~~
+-[❎] HTML
 
--[❎] ~~CSS~~
+-[❎] CSS
 
--[❎] ~~Bootstrap~~
+-[❎] Bootstrap
 
 -[] JavaScript
 
@@ -24,7 +32,7 @@
 -[] Mongoose & MongoDB
 
 
-#### Skills I'd like to learn down the road 
+#### Skills I'd like to learn down the road: 
 -[] PHP/Laravel
 
 -[] Rails ***OR*** Django (Tell me which you prefer!)
@@ -34,7 +42,7 @@
 -[] Video Manipulation Libraries & APIs 
 
 
-### Interests Include:
+#### Interests Include:
 - Bikes & Cycling 🚵‍♂️
 
 - Independent Film & Music 🎶🎬
