@@ -33,6 +33,9 @@
 
 
 #### Skills I'd like to learn down the road: 
+
+-[] TypeScript
+
 -[] PHP/Laravel
 
 -[] Rails ***OR*** Django (Tell me which you prefer!)
