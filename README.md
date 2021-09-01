@@ -21,7 +21,7 @@
 
 -[✅] Bootstrap
 
--[ ] JavaScript
+-[✅] JavaScript
 
 -[ ] React
 
