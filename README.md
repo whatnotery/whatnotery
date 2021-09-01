@@ -1,7 +1,7 @@
 
 # ***Howdy Y'all***  👈🤠👉 
 
-![Image of Jos O'shea](https://github.com/whatnotery/whatnotery/blob/main/Profile.png)
+![cartoon of Jos O'shea and a fall scene with a bike](https://github.com/whatnotery/whatnotery/blob/main/image.png)
 
 ## *I'm Jos and I'm an aspiring web dev in Lexington KY.*
 
