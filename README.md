@@ -3,7 +3,7 @@
 
 ![cartoon of Jos O'shea and a fall scene with a bike](https://github.com/whatnotery/whatnotery/blob/main/image.png)
 
-## *I'm Jos and I'm an aspiring web dev in Lexington KY.*
+## My name is Jos and I'm an aspiring web dev in Lexington KY.*
 
 ### Connect with me over:
 
