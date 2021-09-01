@@ -1,5 +1,5 @@
 
-# *Howdy Y'all*  👈🤠👉 My name is Jos and I'm an aspiring web dev in Lexington KY.
+# *Howdy Y'all*  👈🤠👉 I'm Jos and I'm an aspiring web dev in Lexington KY.
 
 ### Connect with me over:
 
