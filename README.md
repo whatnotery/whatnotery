@@ -7,11 +7,11 @@
 
 ### Current skills I'm working on:
 
--[x] ~~HTML~~
+-[❎] ~~HTML~~
 
--[x] ~~CSS~~
+-[❎] ~~CSS~~
 
--[x] ~~Bootstrap~~
+-[❎] ~~Bootstrap~~
 
 -[] JavaScript
 
@@ -27,20 +27,16 @@
 #### Skills I'd like to learn down the road 
 -[] PHP/Laravel
 
--[] Rails **or** Django (Tell me which you prefer!)
+-[] Rails ***OR*** Django (Tell me which you prefer!)
 
--[] GIS Libraries/APIs
+-[] GIS Libraries & APIs
 
--[] Video Manipulation Libraries/APIs 
+-[] Video Manipulation Libraries & APIs 
 
 
 ### Interests Include:
-- Bikes & Cycling
+- Bikes & Cycling 🚵‍♂️
 
-- Independent Music 
+- Independent Film & Music 🎶🎬
 
-
-- Film
-
-
-- Environmentalism and the outdoors in general
+- Environmentalism and the outdoors in general 🌳🍃🌲
