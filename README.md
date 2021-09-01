@@ -1,7 +1,9 @@
 
-# *Howdy Y'all*  👈🤠👉 
+# ***Howdy Y'all***  👈🤠👉 
 
-## I'm Jos and I'm an aspiring web dev in Lexington KY.
+![Image of Jos O'shea](https://github.com/whatnotery/whatnotery/blob/main/Profile.png)
+
+## *I'm Jos and I'm an aspiring web dev in Lexington KY.*
 
 ### Connect with me over:
 
