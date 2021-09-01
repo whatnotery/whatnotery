@@ -21,28 +21,28 @@
 
 -[✅] Bootstrap
 
--[] JavaScript
+-[ ] JavaScript
 
--[] React
+-[ ] React
 
--[] Node
+-[ ] Node
 
--[] Express
+-[ ] Express
 
--[] Mongoose & MongoDB
+-[ ] Mongoose & MongoDB
 
 
 #### Skills I'd like to learn down the road: 
 
--[] TypeScript
+-[ ] TypeScript
 
--[] PHP/Laravel
+-[ ] PHP/Laravel
 
--[] Rails ***OR*** Django (Tell me which you prefer!)
+-[ ] Rails ***OR*** Django (Tell me which you prefer!)
 
--[] GIS Libraries & APIs
+-[ ] GIS Libraries & APIs
 
--[] Video Manipulation Libraries & APIs 
+-[ ] Video Manipulation Libraries & APIs 
 
 
 #### Interests Include:
