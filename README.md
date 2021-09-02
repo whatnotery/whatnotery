@@ -52,4 +52,4 @@
 
 - Independent Film & Music 🎶🎬
 
-- Environmentalism and the outdoors in general 🌳🍃🌲
+- Environmentalism, Urbanism, and their intersection 🌳🏦
