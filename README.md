@@ -3,48 +3,27 @@
 
 ![cartoon of Jos O'shea and a fall scene with a bike](https://github.com/whatnotery/whatnotery/blob/main/image.png)
 
-## My name is Jos and I'm an aspiring web dev in Lexington KY.
+## My name is Jos and I'm an early career software developer in Lexington KY.
 
-### Connect with me over:
+After coding on and off since I was a teenanger I spent the better part of a decade doing I.T. support at an enterprise level. During that time I encountered so many problems that could've been resolved with better code. Being in the situation of helping people navigate through bad user experiences and using lack luster internal tools to do so left a bad taste in my mouth and made me want to solve those problems.
 
-- How you got started as a developer!
+In 2021, I started coding seriously with the intention of being able to create tools and experiences that are useful and meaningful for their users. At the beginning of 2022 I started work as a technical operations specialist and over the course of several months moved into doing full stack development with Ruby on Rails at [Bitwerx](https://www.bitwerx.com/).
 
-- What coding bootcamps you think are worthwhile (or if they are at all?)
+### Tech Skills:
 
-- What resources you do think are worthwhile if you don't think bootcamps are the move. 
+- HTML & CSS
 
-- What the best sort of portfolio projects are to get noticed by employers.
+- Bootstrap
 
-### Current skills I'm working on:
+- JavaScript
 
--[✅] HTML
+- React
 
--[✅] CSS
+- Node
 
--[✅] Bootstrap
+- PostgreSQL
 
--[✅] JavaScript
-
--[ ] React
-
--[ ] Node
-
--[ ] Express
-
--[ ] Mongoose & MongoDB
-
-
-#### Skills I'd like to learn down the road: 
-
--[ ] TypeScript
-
--[ ] PHP/Laravel
-
--[ ] Rails ***OR*** Django (Tell me which you prefer!)
-
--[ ] GIS Libraries & APIs
-
--[ ] Video Manipulation Libraries & APIs 
+- Ruby & Ruby on Rails
 
 
 #### Interests Include:
