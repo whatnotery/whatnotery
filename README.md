@@ -26,7 +26,7 @@ In 2021, I started coding seriously with the intention of being able to create t
 - Ruby & Ruby on Rails
 
 
-#### Interests Include:
+### Interests Include:
 - Bikes & Cycling 🚵‍♂️
 
 - Independent Film & Music 🎶🎬
