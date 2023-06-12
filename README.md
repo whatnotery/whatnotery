@@ -25,7 +25,7 @@ In 2021, I started coding seriously with the intention of being able to create t
 
 
 ### Interests :
-- Bikes & the Outdo
+- Bikes & the Outdoors
 
 - Independent Film & Music
 
