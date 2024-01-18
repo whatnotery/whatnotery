@@ -15,7 +15,7 @@ In 2021, I started coding seriously with the intention of being able to create t
 
 - Tailwind
 
-- JavaScript
+- Javascript
 
 - PostgreSQL
 
