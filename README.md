@@ -3,9 +3,11 @@
 
 ## My name is Jos and I'm a Rubyist & software developer in Lexington KY.
 
-After coding on and off since I was a teenanger I spent the better part of a decade doing I.T. support at an enterprise level. During that time I encountered so many problems that could've been resolved with better code. Being in the situation of helping people navigate through bad user experiences and using lack luster internal tools to do so left a bad taste in my mouth and made me want to solve those problems.
+After coding on and off since I was a teenanger I spent the better part of a decade doing I.T. support at an enterprise level. After my IT career I pivoted to software engineering where I developed my skills in **Ruby** and **JavaScript** leading me to take on contract work and a full-time position as a support engineer. I started development work shortly there after and was quickly promoted to a development role. In this time, I’ve refined my skills with **Ruby on Rails**, testing with **RSpec** and **Capybara**, frontend development with **Svelte**, and **React**.
 
-In 2021, I started coding seriously with the intention of being able to create tools and experiences that are useful and meaningful for their users. I started at Bitwerx in 2022 in a Support Engineer role and in 2023 was promoted to a Software Engineering role. 
+When I’m not coding, I find joy in being outside (walking, hiking, or cycling), listening to [my record collection](https://www.discogs.com/user/whatnotery), drinking natural wines, spending time with my partner, and serving on the board of directors of my [local bike co-op](https://www.thebrokespoke.org/).
+
+
 
 ### Tech Skills:
 
@@ -15,7 +17,7 @@ In 2021, I started coding seriously with the intention of being able to create t
 
 - Tailwind
 
-- Javascript
+- Javascript & Svelte
 
 - PostgreSQL
 
@@ -29,4 +31,6 @@ In 2021, I started coding seriously with the intention of being able to create t
 
 - Civic Engagement & Urban Policy/Design
 
-- Ruby
+- Natural and Low Intervention Wines & Winemaking
+
+- Community Engagement
